@@ -1,12 +1,12 @@
-### Hi there 👋
+### Welcome to my GitHub Account
 
-<!--
-**fbagire/fbagire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- 🔭 I’m currently working on MDF (Measurement Data Format) data collected from CAN bus in prototype Electric Vehicles
+  to evaluate their performance.
 
-- 🔭 I’m currently working on ...EV canbus data analysis to model vehicles perfomance
-- 👯 I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me: faibagire@gmail.com
+Using Python(asammdf), git, sklearn, statistics
+
+- 👯 I’m looking to collaborate on Machine Learning projects, energy access and optimization research
+- 📫 reach me at faibagire@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">I am experienced in following Languages and Tools:</h4>
 <p align="left">
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
