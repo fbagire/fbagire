@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on MDF (Measurement Data Format) data collected from CAN bus in prototype Electric Vehicles
   to evaluate their performance.
 
-Using Python(asammdf), git, sklearn, statistics
+Using asammdf, Sklearn, SciPy
 
 - 👯 I’m looking to collaborate on Machine Learning projects, energy access and optimization research
 - 📫 reach me at faibagire@gmail.com
