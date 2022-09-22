@@ -1,9 +1,7 @@
 ### Welcome to my GitHub Profile
 
 - 🔭 I’m currently working on MDF (Measurement Data Format) data collected from CAN bus in prototype Electric Vehicles
-  to evaluate their performance.
-
-Using asammdf, Sklearn, SciPy
+  to evaluate their performance using asammdf, Sklearn, SciPy
 
 - 👯 I’m looking forward to collaborate on Machine Learning projects, energy access and optimization research
 - 📫 reach me at faibagire@gmail.com
