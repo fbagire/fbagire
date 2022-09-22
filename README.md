@@ -1,11 +1,11 @@
-### Welcome to my GitHub Account
+### Welcome to my GitHub Profile
 
 - 🔭 I’m currently working on MDF (Measurement Data Format) data collected from CAN bus in prototype Electric Vehicles
   to evaluate their performance.
 
 Using asammdf, Sklearn, SciPy
 
-- 👯 I’m looking to collaborate on Machine Learning projects, energy access and optimization research
+- 👯 I’m looking forward to collaborate on Machine Learning projects, energy access and optimization research
 - 📫 reach me at faibagire@gmail.com
 
 <h3 align="left">Connect with me:</h3>
